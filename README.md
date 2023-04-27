@@ -1,6 +1,6 @@
 # Hi there, I'm Hokmiran ! 👋
 
-[![Linkedin: akifhaciyev](https://img.shields.io/badge/-Hokmiran-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&linkhttps:https://www.linkedin.com/in/hokmiran-soltanli-21791321b/)](https://www.linkedin.com/in/hokmiran-soltanli-21791321b/)
+[![Linkedin: Hokmiran](https://img.shields.io/badge/-Hokmiran-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&linkhttps:https://www.linkedin.com/in/hokmiran-soltanli-21791321b/)](https://www.linkedin.com/in/hokmiran-soltanli-21791321b/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Hokmiran?label=follow&style=social)](https://github.com/Hokmiran)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hokmiran&show_icons=true&theme=radical)
